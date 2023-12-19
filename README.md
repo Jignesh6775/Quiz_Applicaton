@@ -1,7 +1,3 @@
-Certainly! Below is a template for a professional README file for the provided quiz application assignment. Please adjust the details and formatting according to your project structure and preferences.
-
----
-
 # Quiz Application Backend
 
 This is the backend for a quiz application built using Node.js, Express.js, and MongoDB.
